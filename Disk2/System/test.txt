@@ -1,0 +1,3 @@
+Start process: FindFiles.py	 Open time: 2022-05-31 14:16:20
+Start process: QTerminal.py	 Open time: 2022-05-31 14:16:21
+Start process: Tasker.exe	 Open time: 2022-05-31 14:16:22
